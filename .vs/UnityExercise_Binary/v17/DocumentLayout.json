@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C16E52-A7D0-67A1-D07C-FEEDC4CC328C}|Assembly-CSharp-Editor.csproj|e:\\unity3d\\unityexercises\\unityexercise_binary\\assets\\scripts\\\u77E5\u8BC6\u8865\u5145\\lesson3_excel\u6570\u636E\u8BFB\u53D6\\editor\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C16E52-A7D0-67A1-D07C-FEEDC4CC328C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\\u77E5\u8BC6\u8865\u5145\\lesson3_excel\u6570\u636E\u8BFB\u53D6\\editor\\lesson3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F3870-4673-9FE0-0CF4-093B30161DCA}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\assets\\scripts\\\u77E5\u8BC6\u8865\u5145\\lesson2_exceldll\u5305\u5BFC\u5165\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482F3870-4673-9FE0-0CF4-093B30161DCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u77E5\u8BC6\u8865\u5145\\lesson2_exceldll\u5305\u5BFC\u5165\\lesson2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482F3870-4673-9FE0-0CF4-093B30161DCA}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\assets\\scripts\\\u77E5\u8BC6\u8865\u5145\\lesson1_\u521B\u5EFA\u83DC\u5355\u680F\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482F3870-4673-9FE0-0CF4-093B30161DCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u77E5\u8BC6\u8865\u5145\\lesson1_\u521B\u5EFA\u83DC\u5355\u680F\\lesson1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson3.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson3_Excel\u6570\u636E\u8BFB\u53D6\\Editor\\Lesson3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson3_Excel\u6570\u636E\u8BFB\u53D6\\Editor\\Lesson3.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson3_Excel\u6570\u636E\u8BFB\u53D6\\Editor\\Lesson3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson3_Excel\u6570\u636E\u8BFB\u53D6\\Editor\\Lesson3.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAA0wE0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:57:29.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson2.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson2_ExcelDll\u5305\u5BFC\u5165\\Lesson2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson2_ExcelDll\u5305\u5BFC\u5165\\Lesson2.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson2_ExcelDll\u5305\u5BFC\u5165\\Lesson2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson2_ExcelDll\u5305\u5BFC\u5165\\Lesson2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:44:18.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson1.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson1_\u521B\u5EFA\u83DC\u5355\u680F\\Lesson1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson1_\u521B\u5EFA\u83DC\u5355\u680F\\Lesson1.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_Binary\\Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson1_\u521B\u5EFA\u83DC\u5355\u680F\\Lesson1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u77E5\u8BC6\u8865\u5145\\Lesson1_\u521B\u5EFA\u83DC\u5355\u680F\\Lesson1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:34:59.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
